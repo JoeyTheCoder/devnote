@@ -4,4 +4,6 @@
 - the arrow button at the bottom of the page should trigger a scroll to the next section
 - the about me section has quite some text and can be presented better (more readable)
 - The scrolling animations triggered by the buttons from the hero section and every other hero section should respect that the navbar at the top is fixed and should calculate the scroll position to be including the navbar at the top
-- Skills section looks too boring, more color,
+- Skills section looks too boring, more color, more flashy representation of all the technical skills i have (i'm open for input here)
+- My professional career there is not visible timeline, the idea is that i have a line from top to bottom and then changing on the left and right to have the career milestones 
+- footer needs to be reworked as
