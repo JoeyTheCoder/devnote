@@ -2,4 +2,5 @@
 - the text "Fullstack Software Engineer / DevOps Engineer / Agile Leader Based in Switzerland 🇨🇭" shall have an animation as if it's typed in when loading the website
 - the buttons in the hero section blend into the background color too much and should be more visible.
 - the arrow button at the bottom of the page should trigger a scroll to the next section
-- the about me secti
+- the about me section has quite some text and can be presented better (more readable)
+- in the 
