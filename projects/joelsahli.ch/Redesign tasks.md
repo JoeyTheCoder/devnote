@@ -1,1 +1,2 @@
-the svg grid behind the hero section coul
+- the svg grid behind the hero section should be a bit more visible, i like how it's fading from top left corner to be visible in the bototm right corner, it can just be more visible on the bottom right.
+- the text "Fullstack Software Engineer / DevOps Engineer / Agile Leader Based in Switzerland 
