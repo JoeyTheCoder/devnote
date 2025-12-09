@@ -180,11 +180,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "222e182d9f57ee2a",
+  "active": "1f2a9d5d7214be22",
   "lastOpenFiles": [
+    "opencodetmp/opencode",
+    "opencodetmp/opencode-linux-x64-musl.tar.gz",
+    "opencodetmp",
     "test.md"
   ]
 }
