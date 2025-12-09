@@ -1,2 +1,5 @@
 - the svg grid behind the hero section should be a bit more visible, i like how it's fading from top left corner to be visible in the bototm right corner, it can just be more visible on the bottom right.
-- the text "Fullstack Software Engineer / DevOps Engineer / Agile Leader Based in Switzerland 
+- the text "Fullstack Software Engineer / DevOps Engineer / Agile Leader Based in Switzerland 🇨🇭" shall have an animation as if it's typed in when loading the website
+- the buttons in the hero section blend into the background color too much and should be more visible.
+- the arrow button at the bottom of the page should trigger a scroll to the next section
+- the about me secti
