@@ -1,0 +1,1 @@
+the svg grid behind the hero section coul

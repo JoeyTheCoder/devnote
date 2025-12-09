@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSTRUCTIONS.md",
+                "file": "projects/joelsahli.ch/Redesign tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INSTRUCTIONS"
+              "title": "Redesign tasks"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "1f2a9d5d7214be22",
   "lastOpenFiles": [
+    "INSTRUCTIONS.md",
+    "projects/joelsahli.ch/Redesign tasks.md",
     "projects/joelsahli.ch",
     "projects/New folder",
     "projects/sapphirix.ch",
@@ -195,9 +197,7 @@
     "to-do",
     "projects",
     "test.md",
-    "INSTRUCTIONS.md",
     "opencodetmp/opencode",
-    "opencodetmp/opencode-linux-x64-musl.tar.gz",
-    "opencodetmp"
+    "opencodetmp/opencode-linux-x64-musl.tar.gz"
   ]
 }
