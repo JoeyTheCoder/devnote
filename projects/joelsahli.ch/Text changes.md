@@ -22,11 +22,13 @@ From sketch to scale: I connect good architecture with dependable delivery so bu
 Next section to work on:
 ### Ways of working
 
-I create calm, outcome-focused delivery rhythms—facilitating standups in the morning, reviewing pull requests at lunch, and pairing with engineers in the afternoon.
+Scrum‑savvy full‑stack developer who builds products tailored to your needs. I use practical rhythms where they help, then focus on delivering the right outcomes — not selling process, shipping product.
 
-Agile leadershipServant coachingContinuous discoveryQuality-first mindset
+- Product-first delivery: align roadmap and work to measurable outcomes.
+- Hands-on development across frontend and backend.
+- Pairing, code reviews, and a quality-first engineering mindset.
 
-Let’s align on your roadmap and build a delivery plan that your stakeholders can trust.
+Let’s align on your roadmap and build solutions that stakeholders can trust.
 
 
 What i wanna say here:
