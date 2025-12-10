@@ -31,4 +31,4 @@ Let’s align on your roadmap and build a delivery plan that your stakeholders c
 
 What i wanna say here:
 
-I want to show off that i'm a scrum master a little bit but i more want to 
+I want to show off that i'm a scrum master a little bit but i more want to tell the customer here that i'm a freelance fullstack developer that understands business needs and is driven by a passion for programming
