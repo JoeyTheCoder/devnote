@@ -1,0 +1,1 @@
+I have redesigned my personal web portfolio and the last part is to t
