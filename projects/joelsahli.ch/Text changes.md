@@ -3,9 +3,9 @@ About me section:
 
 current text:
 
-Swiss-born engineer translating complex challenges into elegant, human-friendly software.
+I'm Swiss and I like clear explanations — I build software people enjoy using. I explain the process in plain language and partner with product teams to turn tricky problems into simple, human-friendly products.
 
-I collaborate with product teams across Europe to ship delightful user experiences, production-ready code, and DevOps automation that scales with your ambitions.
+I help deliver great UX, production-ready code, and DevOps that scales with your ambitions. I'm always learning and excited by interesting challenges — if you'd like someone who gets things done without the jargon, let's talk.
 
 What i wanna say:
 
