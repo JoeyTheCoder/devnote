@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/joelsahli.ch/ai-implementation-prompt.md",
+                "file": "projects/joelsahli.ch/Text changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-implementation-prompt"
+              "title": "Text changes"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "1f2a9d5d7214be22",
   "lastOpenFiles": [
-    "projects/joelsahli.ch/Redesign tasks.md",
     "projects/joelsahli.ch/ai-implementation-prompt.md",
+    "projects/joelsahli.ch/Text changes.md",
+    "projects/joelsahli.ch/Redesign tasks.md",
     "INSTRUCTIONS.md",
     "projects/joelsahli.ch",
     "projects/New folder",
