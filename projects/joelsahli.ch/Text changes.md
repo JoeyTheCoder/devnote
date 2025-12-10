@@ -8,12 +8,14 @@ I build software people enjoy using. I explain the process in plain language and
 I help deliver great UX, production-ready code, and DevOps that scales with your ambitions. I'm always learning and excited by interesting challenges — if you'd like someone who gets things done without the jargon, let's talk.
 
 
-current next section:
+Help teams section:
 
 ### How I help teams
 
-From rapid prototypes to regulated enterprise systems, I bridge architecture, delivery, and mentoring so teams can move with confidence.
+From sketch to scale: I connect good architecture with dependable delivery so businesses can move confidently.
 
-- ▹Design resilient frontends (Angular, Vite, Tailwind) that stay lightweight.
-- ▹Build cloud-ready APIs and integrations powered by Java, .NET, and Python.
-- ▹Automate release pipelines with IaC, Kubernetes, and Azure DevOps.
+- Frontends that feel snappy and are easy to maintain (Angular, Vite, Tailwind).
+- APIs and integrations built for reliability and clarity (Java, .NET, Python).
+- Repeatable release pipelines and infra-as-code using Kubernetes and Azure DevOps.
+
+
