@@ -19,3 +19,16 @@ From sketch to scale: I connect good architecture with dependable delivery so bu
 - Repeatable release pipelines and infra-as-code using Kubernetes and Azure DevOps.
 
 
+Next section to work on:
+### Ways of working
+
+I create calm, outcome-focused delivery rhythms—facilitating standups in the morning, reviewing pull requests at lunch, and pairing with engineers in the afternoon.
+
+Agile leadershipServant coachingContinuous discoveryQuality-first mindset
+
+Let’s align on your roadmap and build a delivery plan that your stakeholders can trust.
+
+
+What i wanna say here:
+
+I want to show off that i'm a scrum master a little bit but i more want to 
