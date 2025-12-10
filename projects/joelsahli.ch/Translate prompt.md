@@ -6,4 +6,4 @@ I want the page to be able to switch between languages seemlessly without reload
 
 Stay true to the current text when translating.
 
-Please make this implementation a
+Please make this implementation and tell me when i can test it.
