@@ -10,4 +10,10 @@ I help deliver great UX, production-ready code, and DevOps that scales with your
 
 current next section:
 
+### How I help teams
 
+From rapid prototypes to regulated enterprise systems, I bridge architecture, delivery, and mentoring so teams can move with confidence.
+
+- ▹Design resilient frontends (Angular, Vite, Tailwind) that stay lightweight.
+- ▹Build cloud-ready APIs and integrations powered by Java, .NET, and Python.
+- ▹Automate release pipelines with IaC, Kubernetes, and Azure DevOps.
