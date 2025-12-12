@@ -1,10 +1,15 @@
 # Coding Journey Context
 
 ## About Me
-- [Add a brief summary about your coding background, experience, and languages you know.]
+- I completed a 4-year apprenticeship in Switzerland as a Software Developer.
+- I worked professionally as a Fullstack Developer for about 5 years after my apprenticeship.
+- During my apprenticeship, my main language was Java.
+- Afterward, I mostly worked with Angular and C#.
 
 ## Goals
-- [List your main goals for this project, e.g., refresh core programming concepts, improve problem-solving, reduce reliance on AI, etc.]
+- Refresh my coding knowledge and fundamentals.
+- Feel more comfortable coding without help from AI or guides.
+- Rebuild confidence in problem-solving and independent development.
 
 ## Learning Preferences
 - [Describe how you like to learn: hands-on, theory first, project-based, etc.]
