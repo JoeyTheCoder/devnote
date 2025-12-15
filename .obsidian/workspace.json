@@ -201,6 +201,8 @@
   },
   "active": "16c97a4f82959832",
   "lastOpenFiles": [
+    "projects/standalone_project_overview/project_overview.md",
+    "projects/standalone_project_overview",
     "projects/Back2Basics/context.md",
     "projects/Back2Basics/excercises/1.md",
     "projects/Back2Basics/excercises",
@@ -218,7 +220,6 @@
     "general",
     "to-do",
     "projects",
-    "test.md",
-    "opencodetmp/opencode"
+    "test.md"
   ]
 }
