@@ -3,4 +3,26 @@ Hackathon: https://serverpod.devpost.com/?ref_feature=challenge&ref_medium=homep
 Ideas:
 
 News Butler: 
-App 
+A **Flutter Butler** that delivers a **personalized daily news briefing**. During onboarding, users select their location, interests, favorite sports teams, and preferred news sources. Each day, the butler automatically gathers relevant news, summarizes what matters most, and presents a concise, easy-to-read briefing—helping users stay informed without endless scrolling.
+
+---
+
+### App Workflow
+
+1. **Onboarding:** User selects interests, location, teams, and sources
+    
+2. **Daily Automation (Serverpod):**
+    
+    - Fetches news from selected sources
+        
+    - Filters by user preferences
+        
+    - Summarizes and deduplicates with AI
+        
+    - Generates a daily briefing
+        
+3. **Delivery:**
+    
+    - Briefing is stored and instantly available in the Flutter app
+        
+    - Optional notification alerts the user when it’s ready
