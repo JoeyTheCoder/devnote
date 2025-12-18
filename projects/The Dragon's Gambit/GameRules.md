@@ -74,6 +74,12 @@ Many special cards can add effects, such as:
 - Swap cards between players.
 - Assign a "wild" or zero value to a card.
 
+| Card | Ability |
+| ---- | ------- |
+|      |         |
+|      |         |
+|      |         |
+
 
 
 _These are defined by the final deck design and can be customized for The Dragon's Gambit._
