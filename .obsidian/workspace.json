@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ProjectOverview.md",
+                "file": "projects/The Dragon's Gambit/GameRules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProjectOverview"
+              "title": "GameRules"
             }
           }
         ]
@@ -186,12 +186,13 @@
   },
   "active": "1f2a9d5d7214be22",
   "lastOpenFiles": [
+    "projects/ProjectOverview.md",
+    "projects/The Dragon's Gambit/GameRules.md",
     "projects/The Dragon's Gambit/The Dragons Gambit.md",
     "projects/Flutter Hackathon",
     "projects/The Dragon's Gambit",
     "projects/joelsahli.ch/Redesign tasks.md",
     "projects/standalone_project_overview/project_overview.md",
-    "projects/ProjectOverview.md",
     "projects/Flutter Hackathon/Hackathon Flutter Project.md",
     "projects/Back2Basics/excercises/1.md",
     "projects/standalone_project_overview",
