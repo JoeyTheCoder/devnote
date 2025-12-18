@@ -77,8 +77,8 @@ Many special cards can add effects, such as:
 | 10   | inspect one of your own cards                               |
 | 11   | Subtract 1 of the value to any card of a player             |
 | 12   | swap one of your own cards with one of your opponents cards |
-| 0    | Subtract 1 of the value to all of the cards of a player     |
-| 13   | Add + 1 to the value to all of the cards of                 |
+| 0    | Subtract 1 of the value to all of the cards of any player   |
+| 13   | Add + 1 to the value to all of the cards of any player      |
 
 
 
