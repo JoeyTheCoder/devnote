@@ -11,9 +11,9 @@ The Dragon’s Gambit is a turn-based digital card game of hidden information, m
 
 ## Card Values (Initial Reference — Adaptable)
 
-| Card              | Value        |
-| ----------------- | ------------ |
-| 0–13              | Face value   |
+| Card | Value      |     |
+| ---- | ---------- | --- |
+| 0–13 | Face value |     |
 
 
 _Face cards may have unique abilities or effects — see the "Special Abilities" section._
