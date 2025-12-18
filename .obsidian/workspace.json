@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Redesign tasks"
             }
-          },
-          {
-            "id": "a4c519e8fcf3926f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/Hackathon Flutter Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hackathon Flutter Project"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "222e182d9f57ee2a",
+  "active": "1f2a9d5d7214be22",
   "lastOpenFiles": [
+    "projects/standalone_project_overview/project_overview.md",
     "projects/The Dragons Gambit.md",
     "projects/ProjectOverview.md",
-    "projects/standalone_project_overview/project_overview.md",
     "projects/Hackathon Flutter Project.md",
     "projects/Back2Basics/excercises/1.md",
     "projects/standalone_project_overview",
