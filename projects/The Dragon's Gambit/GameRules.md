@@ -13,8 +13,8 @@ The Dragon’s Gambit is a turn-based digital card game of hidden information, m
 
 | Card   | Value      | Amount in Deck |
 | ------ | ---------- | -------------- |
-| 0 & 13 | Face value | 2 per          |
-| 1-12   | Face value |                |
+| 0 & 13 | Face value | 2x per card    |
+| 1-12   | Face value | 4x per card    |
 
 
 _Face cards may have unique abilities or effects — see the "Special Abilities" section._
@@ -73,6 +73,8 @@ Many special cards can add effects, such as:
 - Peek at another player's card.
 - Swap cards between players.
 - Assign a "wild" or zero value to a card.
+
+
 
 _These are defined by the final deck design and can be customized for The Dragon's Gambit._
 
