@@ -76,11 +76,11 @@ Many special cards can add effects, such as:
 
 | Card | Ability                                                     |
 | ---- | ----------------------------------------------------------- |
+| 8    | Add +1 to the value to any card of a player                 |
 | 9    | peek at another players card                                |
 | 10   | inspect one of your own cards                               |
-| 11   |                                                             |
+| 11   | Subtract 1 of the value to any card of a p                  |
 | 12   | swap one of your own cards with one of your opponents cards |
-|      |                                                             |
 
 
 
