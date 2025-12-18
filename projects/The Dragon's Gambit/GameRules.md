@@ -74,12 +74,13 @@ Many special cards can add effects, such as:
 - Swap cards between players.
 - Assign a "wild" or zero value to a card.
 
-| Card | Ability |
-| ---- | ------- |
-| 9    | peek at |
-| 10   |         |
-| 11   |         |
-| 12   |         |
+| Card | Ability                                                     |
+| ---- | ----------------------------------------------------------- |
+| 9    | peek at another players card                                |
+| 10   | inspect one of your own cards                               |
+| 11   |                                                             |
+| 12   | swap one of your own cards with one of your opponents cards |
+|      |                                                             |
 
 
 
