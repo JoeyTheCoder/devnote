@@ -76,9 +76,10 @@ Many special cards can add effects, such as:
 
 | Card | Ability |
 | ---- | ------- |
-|      |         |
-|      |         |
-|      |         |
+| 9    | peek at |
+| 10   |         |
+| 11   |         |
+| 12   |         |
 
 
 
