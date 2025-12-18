@@ -82,6 +82,8 @@ Many special cards can add effects, such as:
 
 
 
+**Note:** Card values may never go below 0 or above 13, even after abilities or modifiers.
+
 _These are defined by the final deck design and can be customized for The Dragon's Gambit._
 
 ## End of Game (Multi-Round Play)
