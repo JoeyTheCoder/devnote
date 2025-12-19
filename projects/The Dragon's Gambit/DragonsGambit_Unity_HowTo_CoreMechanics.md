@@ -40,7 +40,7 @@ In Unity: **Window → Package Manager**
   - Asset Serialization: **Force Text**
 
 ### 0.5 Professional folder structure
-In **Project** window, create:
+In **Project** window, create:_
 
 ```
 Assets/
